@@ -1,8 +1,9 @@
-.env
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
 .pytest_cache/
+.env
+data/
+*.db
+*.sqlite3
 .DS_Store
-data/images/
-logs/
-venv/

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Hunting Behaviors of the Wild Red Fox",
+    "content": "Red foxes (Vulpes vulpes) are renowned for their distinctive orange coats and mousing leaps in winter meadows.",
+    "expected_subject": "red fox",
+    "should_pass": true
+  },
+  {
+    "id": 2,
+    "title": "Ecology of Vulpes Vulpes in Northern Forests",
+    "content": "Study of vulpes vulpes den structures, diet, and seasonal territorial markings.",
+    "expected_subject": "red fox",
+    "should_pass": true
+  },
+  {
+    "id": 3,
+    "title": "Gray Wolf Pack Dynamics in Winter",
+    "content": "Canis lupus social hierarchies, hunting territorial boundaries, and alpha leadership in alpine snow.",
+    "expected_subject": "gray wolf",
+    "should_pass": true
+  },
+  {
+    "id": 4,
+    "title": "Grizzly Bears Salmon Fishing along Riverbanks",
+    "content": "Ursus arctos horribilis catching migrating salmon in shallow rushing streams.",
+    "expected_subject": "grizzly bear",
+    "should_pass": true
+  },
+  {
+    "id": 5,
+    "title": "Red Deer Antler Growth and Rutting Season",
+    "content": "Cervus elaphus stags competing in misty autumn highlands.",
+    "expected_subject": "red deer",
+    "should_pass": true
+  },
+  {
+    "id": 6,
+    "title": "Domestic Golden Retriever Care and Exercise",
+    "content": "Daily habits, nutrition, and companionship of family pet dogs.",
+    "expected_subject": "dog",
+    "should_pass": true
+  },
+  {
+    "id": 7,
+    "title": "Red Fox vs Wild Wolf Range Overlap",
+    "content": "Habitat sharing between red foxes and larger predatory canids.",
+    "expected_subject": "red fox",
+    "should_pass": true
+  },
+  {
+    "id": 8,
+    "title": "Wolf Howling Patterns Across Yellowstone",
+    "content": "Acoustic communication and pack gathering behaviors among wolves.",
+    "expected_subject": "gray wolf",
+    "should_pass": true
+  },
+  {
+    "id": 9,
+    "title": "Quantum Computing Superconducting Circuit Qubits",
+    "content": "Quantum entanglement error correction in cryogenic dilution refrigerators.",
+    "expected_subject": "none",
+    "should_pass": false
+  },
+  {
+    "id": 10,
+    "title": "Urban Architecture and Modern Concrete Skyscrapers",
+    "content": "Structural engineering of high-rise towers in commercial business districts.",
+    "expected_subject": "none",
+    "should_pass": false
+  }
+]

@@ -10,3 +10,8 @@
 - Built SQLite persistence with `ImageModel`, `PostModel`, and `CostLogModel`.
 - Configured vision analysis with automated retry and low-confidence flagging (`< 0.70`).
 - Processed 50-image corpus and verified per-call cost tracking.
+
+- Built vector embedding pipeline and cosine similarity ranking.
+- Generated and persisted dense embeddings for processed image corpus.
+- Implemented `MismatchGuard` safety layer with similarity cutoffs, low-confidence filters, and category mismatch rules.
+- Verified with `tests/test_phase3_guard.py`: Red fox approved, wolf rejected with explanation, low similarity rejected.
